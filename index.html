@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Daily Communication Practice</title>
+  <meta name="description" content="One news story a day, turned into a five-step speaking session.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="top">
+    <div class="logo">Daily Practice</div>
+    <nav id="steps" class="steps" aria-label="Session steps"></nav>
+    <div class="actions">
+      <button id="openArchive" class="pill" type="button">Archive</button>
+      <button id="openStats" class="pill" type="button">Progress <b id="streak">0</b></button>
+      <button id="theme" class="pill" type="button" aria-label="Toggle theme">Theme</button>
+    </div>
+  </header>
+
+  <main class="main">
+    <p id="loading" class="muted">Loading today's article...</p>
+    <article id="article" class="hidden">
+      <section class="intro">
+        <div class="meta"><span id="category" class="tag"></span><span id="level" class="tag alt"></span><span id="date" class="muted"></span></div>
+        <h1 id="title"></h1>
+        <p id="summary" class="lead"></p>
+        <div id="keywords" class="chips"></div>
+      </section>
+
+      <section class="panel" data-step="0">
+        <h2>Read and prepare</h2>
+        <p id="angle" class="muted"></p>
+        <ul class="wh"><li>Who is involved?</li><li>What happened?</li><li>Where and when?</li><li>Why does it matter?</li><li>What could happen next?</li></ul>
+        <a id="readArticle" class="btn" href="#" target="_blank" rel="noopener noreferrer">Read the full story on BBC</a>
+        <p class="muted small">Source: <strong id="source"></strong>. Read it once, then come back and press Next.</p>
+      </section>
+
+      <section class="panel" data-step="1" hidden>
+        <div class="split">
+          <div>
+            <h2>Speak for two minutes</h2>
+            <ol class="prep"><li><b>Point</b> State your main idea.</li><li><b>Reason</b> Say why.</li><li><b>Example</b> Give a real one.</li><li><b>Point again</b> Repeat your idea.</li></ol>
+            <p id="opinionPrompt" class="muted"></p>
+          </div>
+          <div class="timer" id="timer" style="--p:0deg">
+            <div class="ring"><span id="time">2:00</span></div>
+            <div class="row"><button id="start" class="btn" type="button">Start</button><button id="reset" class="pill" type="button">Reset</button></div>
+          </div>
+        </div>
+        <h3>Questions to answer aloud</h3>
+        <ol id="questions" class="questions"></ol>
+        <h3>Sentence starters <small>tap to copy</small></h3>
+        <div id="starters" class="chips"></div>
+      </section>
+
+      <section class="panel" data-step="2" hidden>
+        <h2>Words to use today</h2>
+        <p class="muted">Tap a card for the meaning. Mark the ones you already know.</p>
+        <div id="vocabulary" class="vocab"></div>
+        <div id="idiom" class="idiom"></div>
+      </section>
+
+      <section class="panel" data-step="3" hidden>
+        <h2>Quick quiz</h2>
+        <div id="quiz"></div>
+      </section>
+
+      <section class="panel" data-step="4" hidden>
+        <h2>Write it down and rate yourself</h2>
+        <p class="muted">Summarise the story in your own words. Aim for 30+ words and try to use 3 of today's words.</p>
+        <textarea id="notes" rows="6" placeholder="Start with a sentence starter..." aria-label="Your summary"></textarea>
+        <div class="counts"><span id="wc">0 words</span><span id="sc">0 sentences</span><span id="uc">0 of 8 words used</span></div>
+        <div id="used" class="chips"></div>
+        <h3>How did the speaking feel?</h3>
+        <div id="rating" class="rating" role="radiogroup" aria-label="Self rating"></div>
+        <button id="finish" class="btn wide" type="button" disabled>Finish session</button>
+        <p id="hint" class="muted small"></p>
+      </section>
+
+      <footer class="nav">
+        <button id="back" class="pill" type="button">Back</button>
+        <span class="muted small">Tip: use the left and right arrow keys</span>
+        <button id="next" class="btn" type="button">Next</button>
+      </footer>
+    </article>
+  </main>
+
+  <dialog id="archive"><form method="dialog"><button class="pill close">Close</button></form>
+    <h2>Archive</h2><input id="search" type="search" placeholder="Search by title or category" aria-label="Search articles"><div id="history" class="history"></div>
+  </dialog>
+  <dialog id="stats"><form method="dialog"><button class="pill close">Close</button></form>
+    <h2>Your progress</h2><div id="statGrid" class="stat-grid"></div>
+    <h3>Last 5 weeks</h3><div id="heat" class="heat" aria-label="Practice calendar"></div>
+    <div class="row"><button id="export" class="pill" type="button">Export data</button><button id="reset-all" class="pill" type="button">Reset progress</button></div>
+  </dialog>
+  <div id="toast" class="toast" role="status"></div>
+  <script src="app.js"></script>
+</body>
+</html>

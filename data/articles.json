@@ -1,0 +1,83 @@
+[
+  {
+    "date": "2026-10-02",
+    "source": "BBC News",
+    "category": "Science",
+    "title": "Watch: Starship splashdown ends in fireball",
+    "summary": "The mission was supposed to last 10 hours, but SpaceX announced it was ending after 90 minutes.",
+    "url": "https://www.bbc.co.uk/news/videos/c6j9xkdvrd94o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 28 Sep 2026 16:28:10 GMT",
+    "opinionPrompt": "After reading the article, state your opinion clearly. Give one reason and one example to support your point.",
+    "questions": [
+      "Can you explain this article in your own words?",
+      "What do you think about this topic?",
+      "Why do you think this scientific development matters?",
+      "What is the strongest argument for and against what happened?",
+      "If you were advising the people involved, what would you tell them?",
+      "How might this story look different in ten years?"
+    ],
+    "vocabulary": [
+      {
+        "word": "escalate",
+        "pos": "verb",
+        "meaning": "to become more intense or serious",
+        "example": "Tensions began to escalate overnight."
+      },
+      {
+        "word": "implication",
+        "pos": "noun",
+        "meaning": "a likely effect or consequence",
+        "example": "The law has serious implications for startups."
+      },
+      {
+        "word": "disrupt",
+        "pos": "verb",
+        "meaning": "to interrupt or change how something normally works",
+        "example": "New apps disrupted the taxi industry."
+      },
+      {
+        "word": "resilient",
+        "pos": "adj",
+        "meaning": "able to recover quickly from difficulty",
+        "example": "Small shops proved resilient during the downturn."
+      },
+      {
+        "word": "consensus",
+        "pos": "noun",
+        "meaning": "general agreement among a group",
+        "example": "There is no consensus on the best solution."
+      },
+      {
+        "word": "bolster",
+        "pos": "verb",
+        "meaning": "to strengthen or support",
+        "example": "The news bolstered investor confidence."
+      },
+      {
+        "word": "nuanced",
+        "pos": "adj",
+        "meaning": "showing subtle differences and detail",
+        "example": "It is a nuanced issue with no easy answer."
+      },
+      {
+        "word": "transparent",
+        "pos": "adj",
+        "meaning": "open and easy to understand or check",
+        "example": "The company promised to be transparent about costs."
+      }
+    ],
+    "angle": "Science stories show how discovery meets real-world limits. Explain what was tried, what happened, and what it teaches us next.",
+    "idiom": {
+      "phrase": "a blessing in disguise",
+      "meaning": "something that seems bad but turns out good",
+      "example": "Losing that deal was a blessing in disguise."
+    },
+    "level": "Medium",
+    "keywords": [
+      "Watch",
+      "Starship",
+      "splashdown",
+      "ends"
+    ]
+  }
+]
