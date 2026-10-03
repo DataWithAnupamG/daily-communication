@@ -1,5 +1,84 @@
 [
   {
+    "date": "2026-10-03",
+    "source": "BBC News",
+    "category": "Health",
+    "title": "Inside Health",
+    "summary": "Millions of people still have long Covid, yet a cure still isn't quite within reach.",
+    "url": "https://www.bbc.co.uk/sounds/play/m002zrmr?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 05 Aug 2026 10:12:00 GMT",
+    "opinionPrompt": "After reading the article, state your opinion clearly. Give one reason and one example to support your point.",
+    "questions": [
+      "Can you explain this article in your own words?",
+      "What do you think about this topic?",
+      "Could this change people's daily habits or health decisions?",
+      "What is the strongest argument for and against what happened?",
+      "If you were advising the people involved, what would you tell them?",
+      "How might this story look different in ten years?"
+    ],
+    "angle": "Health stories affect daily habits. Separate what is proven from what is still uncertain, and think about who is most affected.",
+    "level": "Medium",
+    "keywords": [
+      "Inside",
+      "Health"
+    ],
+    "vocabulary": [
+      {
+        "word": "advocate",
+        "pos": "verb",
+        "meaning": "to publicly support an idea or cause",
+        "example": "She advocates for cleaner public transport."
+      },
+      {
+        "word": "accountable",
+        "pos": "adj",
+        "meaning": "responsible and expected to explain actions",
+        "example": "Leaders must be accountable to the public."
+      },
+      {
+        "word": "incentive",
+        "pos": "noun",
+        "meaning": "something that motivates action",
+        "example": "Tax breaks are an incentive to go electric."
+      },
+      {
+        "word": "fluctuate",
+        "pos": "verb",
+        "meaning": "to rise and fall irregularly",
+        "example": "Fuel prices fluctuate throughout the year."
+      },
+      {
+        "word": "pragmatic",
+        "pos": "adj",
+        "meaning": "practical rather than idealistic",
+        "example": "He took a pragmatic approach to the budget."
+      },
+      {
+        "word": "inevitable",
+        "pos": "adj",
+        "meaning": "certain to happen; unavoidable",
+        "example": "Some delays were inevitable."
+      },
+      {
+        "word": "momentum",
+        "pos": "noun",
+        "meaning": "strength or speed gained as something develops",
+        "example": "The campaign is gaining momentum."
+      },
+      {
+        "word": "comprehensive",
+        "pos": "adj",
+        "meaning": "complete and covering everything important",
+        "example": "They published a comprehensive safety report."
+      }
+    ],
+    "idiom": {
+      "phrase": "the tip of the iceberg",
+      "meaning": "a small visible part of a much bigger problem",
+      "example": "These delays are just the tip of the iceberg."
+    }
+  },
+  {
     "date": "2026-10-02",
     "source": "BBC News",
     "category": "Science",
