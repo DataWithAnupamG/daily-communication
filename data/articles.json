@@ -1,5 +1,86 @@
 [
   {
+    "date": "2026-10-04",
+    "source": "BBC News",
+    "category": "India",
+    "title": "Watch: Emotional pilot recounts moment of Flydubai attack",
+    "summary": "He has been hailed a hero for opening the cockpit door, allowing passengers to overpower his co-pilot.",
+    "url": "https://www.bbc.co.uk/news/videos/c914d43y7xn4o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 02 Oct 2026 08:46:37 GMT",
+    "opinionPrompt": "After reading the article, state your opinion clearly. Give one reason and one example to support your point.",
+    "questions": [
+      "Can you explain this article in your own words?",
+      "What do you think about this topic?",
+      "How might this matter to people living in India?",
+      "What is the strongest argument for and against what happened?",
+      "If you were advising the people involved, what would you tell them?",
+      "How might this story look different in ten years?"
+    ],
+    "angle": "Stories about India often connect local life with national policy. Think about how the news touches families, cities, and work.",
+    "level": "Challenging",
+    "keywords": [
+      "Watch",
+      "Emotional",
+      "pilot",
+      "recounts"
+    ],
+    "vocabulary": [
+      {
+        "word": "mitigate",
+        "pos": "verb",
+        "meaning": "to make something less harmful or severe",
+        "example": "Cities plant trees to mitigate rising heat."
+      },
+      {
+        "word": "vulnerable",
+        "pos": "adj",
+        "meaning": "easily harmed or affected",
+        "example": "Older people are most vulnerable to the heat."
+      },
+      {
+        "word": "ambiguous",
+        "pos": "adj",
+        "meaning": "open to more than one meaning",
+        "example": "The statement was deliberately ambiguous."
+      },
+      {
+        "word": "leverage",
+        "pos": "verb",
+        "meaning": "to use something to maximum advantage",
+        "example": "Teams leverage data to make faster decisions."
+      },
+      {
+        "word": "exacerbate",
+        "pos": "verb",
+        "meaning": "to make a problem worse",
+        "example": "Delays only exacerbated the confusion."
+      },
+      {
+        "word": "controversial",
+        "pos": "adj",
+        "meaning": "causing public disagreement",
+        "example": "The decision proved highly controversial."
+      },
+      {
+        "word": "repercussion",
+        "pos": "noun",
+        "meaning": "an indirect, often unwelcome result",
+        "example": "The move had wide repercussions."
+      },
+      {
+        "word": "unprecedented",
+        "pos": "adj",
+        "meaning": "never having happened before",
+        "example": "The storm caused unprecedented damage."
+      }
+    ],
+    "idiom": {
+      "phrase": "raise the bar",
+      "meaning": "to set a higher standard",
+      "example": "The new model raises the bar for phones."
+    }
+  },
+  {
     "date": "2026-10-03",
     "source": "BBC News",
     "category": "Health",
