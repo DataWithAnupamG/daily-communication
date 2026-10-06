@@ -1,5 +1,86 @@
 [
   {
+    "date": "2026-10-06",
+    "source": "BBC News",
+    "category": "Top Stories",
+    "title": "Owner, businessman & player: Messi has big plans as a golden era ends",
+    "summary": "Lionel Messi's Argentina career will end in a friendly against Benin. BBC Sport looks at what next for the 39-year-old?",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cwly3lpmyye9o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 06 Oct 2026 05:39:49 GMT",
+    "opinionPrompt": "After reading the article, state your opinion clearly. Give one reason and one example to support your point.",
+    "questions": [
+      "Can you explain this article in your own words?",
+      "What do you think about this topic?",
+      "How could this affect ordinary people's daily lives?",
+      "What is the strongest argument for and against what happened?",
+      "If you were advising the people involved, what would you tell them?",
+      "How might this story look different in ten years?"
+    ],
+    "angle": "Top stories are chosen because many people care. Explain the headline simply first, then say why it matters now.",
+    "level": "Easy",
+    "keywords": [
+      "Owner",
+      "businessman",
+      "player",
+      "Messi"
+    ],
+    "vocabulary": [
+      {
+        "word": "advocate",
+        "pos": "verb",
+        "meaning": "to publicly support an idea or cause",
+        "example": "She advocates for cleaner public transport."
+      },
+      {
+        "word": "fluctuate",
+        "pos": "verb",
+        "meaning": "to rise and fall irregularly",
+        "example": "Fuel prices fluctuate throughout the year."
+      },
+      {
+        "word": "outweigh",
+        "pos": "verb",
+        "meaning": "to be greater in importance than",
+        "example": "The benefits outweigh the risks."
+      },
+      {
+        "word": "incentive",
+        "pos": "noun",
+        "meaning": "something that motivates action",
+        "example": "Tax breaks are an incentive to go electric."
+      },
+      {
+        "word": "undermine",
+        "pos": "verb",
+        "meaning": "to weaken gradually",
+        "example": "Constant changes undermine trust in the system."
+      },
+      {
+        "word": "accountable",
+        "pos": "adj",
+        "meaning": "responsible and expected to explain actions",
+        "example": "Leaders must be accountable to the public."
+      },
+      {
+        "word": "implication",
+        "pos": "noun",
+        "meaning": "a likely effect or consequence",
+        "example": "The law has serious implications for startups."
+      },
+      {
+        "word": "momentum",
+        "pos": "noun",
+        "meaning": "strength or speed gained as something develops",
+        "example": "The campaign is gaining momentum."
+      }
+    ],
+    "idiom": {
+      "phrase": "move the goalposts",
+      "meaning": "to change the rules so success is harder",
+      "example": "They moved the goalposts after we agreed."
+    }
+  },
+  {
     "date": "2026-10-05",
     "source": "BBC News",
     "category": "Entertainment",
