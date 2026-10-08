@@ -1,5 +1,86 @@
 [
   {
+    "date": "2026-10-08",
+    "source": "BBC News",
+    "category": "World",
+    "title": "What happened in the failed execution of Christa Pike - and how did she survive?",
+    "summary": "The convicted killer of Colleen Slemmer is said to be awake and speaking in hospital in Tennessee after an execution attempt.",
+    "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 07 Oct 2026 10:01:47 GMT",
+    "opinionPrompt": "After reading the article, state your opinion clearly. Give one reason and one example to support your point.",
+    "questions": [
+      "Can you explain this article in your own words?",
+      "What do you think about this topic?",
+      "How could this affect ordinary people's daily lives?",
+      "What is the strongest argument for and against what happened?",
+      "If you were advising the people involved, what would you tell them?",
+      "How might this story look different in ten years?"
+    ],
+    "angle": "World news is easier to explain when you separate the facts, the causes, and the reactions. Name the people involved before sharing an opinion.",
+    "level": "Challenging",
+    "keywords": [
+      "What",
+      "happened",
+      "failed",
+      "execution"
+    ],
+    "vocabulary": [
+      {
+        "word": "controversial",
+        "pos": "adj",
+        "meaning": "causing public disagreement",
+        "example": "The decision proved highly controversial."
+      },
+      {
+        "word": "consensus",
+        "pos": "noun",
+        "meaning": "general agreement among a group",
+        "example": "There is no consensus on the best solution."
+      },
+      {
+        "word": "bolster",
+        "pos": "verb",
+        "meaning": "to strengthen or support",
+        "example": "The news bolstered investor confidence."
+      },
+      {
+        "word": "scrutiny",
+        "pos": "noun",
+        "meaning": "close and critical examination",
+        "example": "The plan faced intense scrutiny from experts."
+      },
+      {
+        "word": "unprecedented",
+        "pos": "adj",
+        "meaning": "never having happened before",
+        "example": "The storm caused unprecedented damage."
+      },
+      {
+        "word": "nuanced",
+        "pos": "adj",
+        "meaning": "showing subtle differences and detail",
+        "example": "It is a nuanced issue with no easy answer."
+      },
+      {
+        "word": "escalate",
+        "pos": "verb",
+        "meaning": "to become more intense or serious",
+        "example": "Tensions began to escalate overnight."
+      },
+      {
+        "word": "pragmatic",
+        "pos": "adj",
+        "meaning": "practical rather than idealistic",
+        "example": "He took a pragmatic approach to the budget."
+      }
+    ],
+    "idiom": {
+      "phrase": "read between the lines",
+      "meaning": "to find the hidden meaning",
+      "example": "If you read between the lines, prices will rise."
+    }
+  },
+  {
     "date": "2026-10-07",
     "source": "BBC News",
     "category": "Technology",
