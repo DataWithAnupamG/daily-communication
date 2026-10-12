@@ -1,5 +1,86 @@
 [
   {
+    "date": "2026-10-12",
+    "source": "BBC News",
+    "category": "India",
+    "title": "Priyanka Chopra Jonas on making a film about love and caste inequality",
+    "summary": "Priyanka Chopra Jonas has executive produced The Cycle of Love, based on an Indian artist who cycled from India to Europe to reunite with his wife.",
+    "url": "https://www.bbc.co.uk/news/videos/cn4nk1915vxo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 21 Aug 2026 13:32:28 GMT",
+    "opinionPrompt": "After reading the article, state your opinion clearly. Give one reason and one example to support your point.",
+    "questions": [
+      "Can you explain this article in your own words?",
+      "What do you think about this topic?",
+      "How might this matter to people living in India?",
+      "What is the strongest argument for and against what happened?",
+      "If you were advising the people involved, what would you tell them?",
+      "How might this story look different in ten years?"
+    ],
+    "angle": "Stories about India often connect local life with national policy. Think about how the news touches families, cities, and work.",
+    "level": "Challenging",
+    "keywords": [
+      "Priyanka",
+      "Chopra",
+      "Jonas",
+      "making"
+    ],
+    "vocabulary": [
+      {
+        "word": "ambiguous",
+        "pos": "adj",
+        "meaning": "open to more than one meaning",
+        "example": "The statement was deliberately ambiguous."
+      },
+      {
+        "word": "implication",
+        "pos": "noun",
+        "meaning": "a likely effect or consequence",
+        "example": "The law has serious implications for startups."
+      },
+      {
+        "word": "inevitable",
+        "pos": "adj",
+        "meaning": "certain to happen; unavoidable",
+        "example": "Some delays were inevitable."
+      },
+      {
+        "word": "unprecedented",
+        "pos": "adj",
+        "meaning": "never having happened before",
+        "example": "The storm caused unprecedented damage."
+      },
+      {
+        "word": "exacerbate",
+        "pos": "verb",
+        "meaning": "to make a problem worse",
+        "example": "Delays only exacerbated the confusion."
+      },
+      {
+        "word": "bolster",
+        "pos": "verb",
+        "meaning": "to strengthen or support",
+        "example": "The news bolstered investor confidence."
+      },
+      {
+        "word": "fluctuate",
+        "pos": "verb",
+        "meaning": "to rise and fall irregularly",
+        "example": "Fuel prices fluctuate throughout the year."
+      },
+      {
+        "word": "mitigate",
+        "pos": "verb",
+        "meaning": "to make something less harmful or severe",
+        "example": "Cities plant trees to mitigate rising heat."
+      }
+    ],
+    "idiom": {
+      "phrase": "the tip of the iceberg",
+      "meaning": "a small visible part of a much bigger problem",
+      "example": "These delays are just the tip of the iceberg."
+    }
+  },
+  {
     "date": "2026-10-11",
     "source": "BBC News",
     "category": "Health",
