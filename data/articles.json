@@ -1,5 +1,86 @@
 [
   {
+    "date": "2026-10-13",
+    "source": "BBC News",
+    "category": "Entertainment",
+    "title": "Robert Pattinson on new film Primetime and how hunting predators became hit TV",
+    "summary": "The actor portrays the real-life host of American TV show, To Catch a Predator, in his latest film.",
+    "url": "https://www.bbc.co.uk/news/articles/cmn5d92423vyo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 11 Oct 2026 23:39:12 GMT",
+    "opinionPrompt": "After reading the article, state your opinion clearly. Give one reason and one example to support your point.",
+    "questions": [
+      "Can you explain this article in your own words?",
+      "What do you think about this topic?",
+      "How could this affect ordinary people's daily lives?",
+      "What is the strongest argument for and against what happened?",
+      "If you were advising the people involved, what would you tell them?",
+      "How might this story look different in ten years?"
+    ],
+    "angle": "Culture stories reveal what people value. Explain why the story is popular and what it says about society today.",
+    "level": "Medium",
+    "keywords": [
+      "Robert",
+      "Pattinson",
+      "film",
+      "Primetime"
+    ],
+    "vocabulary": [
+      {
+        "word": "resilient",
+        "pos": "adj",
+        "meaning": "able to recover quickly from difficulty",
+        "example": "Small shops proved resilient during the downturn."
+      },
+      {
+        "word": "disrupt",
+        "pos": "verb",
+        "meaning": "to interrupt or change how something normally works",
+        "example": "New apps disrupted the taxi industry."
+      },
+      {
+        "word": "viable",
+        "pos": "adj",
+        "meaning": "able to work successfully",
+        "example": "Solar power is now a viable option for homes."
+      },
+      {
+        "word": "escalate",
+        "pos": "verb",
+        "meaning": "to become more intense or serious",
+        "example": "Tensions began to escalate overnight."
+      },
+      {
+        "word": "accountable",
+        "pos": "adj",
+        "meaning": "responsible and expected to explain actions",
+        "example": "Leaders must be accountable to the public."
+      },
+      {
+        "word": "outweigh",
+        "pos": "verb",
+        "meaning": "to be greater in importance than",
+        "example": "The benefits outweigh the risks."
+      },
+      {
+        "word": "scepticism",
+        "pos": "noun",
+        "meaning": "a doubting attitude toward claims",
+        "example": "Experts met the claim with scepticism."
+      },
+      {
+        "word": "prospect",
+        "pos": "noun",
+        "meaning": "the possibility of something happening",
+        "example": "The prospect of a deal looks uncertain."
+      }
+    ],
+    "idiom": {
+      "phrase": "raise the bar",
+      "meaning": "to set a higher standard",
+      "example": "The new model raises the bar for phones."
+    }
+  },
+  {
     "date": "2026-10-12",
     "source": "BBC News",
     "category": "India",
