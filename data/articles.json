@@ -1,5 +1,86 @@
 [
   {
+    "date": "2026-10-17",
+    "source": "BBC News",
+    "category": "Business",
+    "title": "Why are more roofs not made of solar tiles?",
+    "summary": "Solar tiles were touted as an attractive alternative to solar panels - why have they not taken off?",
+    "url": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 08 Oct 2026 23:09:56 GMT",
+    "opinionPrompt": "After reading the article, state your opinion clearly. Give one reason and one example to support your point.",
+    "questions": [
+      "Can you explain this article in your own words?",
+      "What do you think about this topic?",
+      "How could this affect businesses or jobs?",
+      "What is the strongest argument for and against what happened?",
+      "If you were advising the people involved, what would you tell them?",
+      "How might this story look different in ten years?"
+    ],
+    "angle": "Business stories follow money and incentives. Ask who pays, who profits, and how ordinary customers or workers feel the effect.",
+    "level": "Challenging",
+    "keywords": [
+      "more",
+      "roofs",
+      "made",
+      "solar"
+    ],
+    "vocabulary": [
+      {
+        "word": "leverage",
+        "pos": "verb",
+        "meaning": "to use something to maximum advantage",
+        "example": "Teams leverage data to make faster decisions."
+      },
+      {
+        "word": "consensus",
+        "pos": "noun",
+        "meaning": "general agreement among a group",
+        "example": "There is no consensus on the best solution."
+      },
+      {
+        "word": "unprecedented",
+        "pos": "adj",
+        "meaning": "never having happened before",
+        "example": "The storm caused unprecedented damage."
+      },
+      {
+        "word": "comprehensive",
+        "pos": "adj",
+        "meaning": "complete and covering everything important",
+        "example": "They published a comprehensive safety report."
+      },
+      {
+        "word": "viable",
+        "pos": "adj",
+        "meaning": "able to work successfully",
+        "example": "Solar power is now a viable option for homes."
+      },
+      {
+        "word": "implication",
+        "pos": "noun",
+        "meaning": "a likely effect or consequence",
+        "example": "The law has serious implications for startups."
+      },
+      {
+        "word": "transparent",
+        "pos": "adj",
+        "meaning": "open and easy to understand or check",
+        "example": "The company promised to be transparent about costs."
+      },
+      {
+        "word": "substantial",
+        "pos": "adj",
+        "meaning": "large in amount or importance",
+        "example": "The firm made a substantial investment."
+      }
+    ],
+    "idiom": {
+      "phrase": "a blessing in disguise",
+      "meaning": "something that seems bad but turns out good",
+      "example": "Losing that deal was a blessing in disguise."
+    }
+  },
+  {
     "date": "2026-10-16",
     "source": "BBC News",
     "category": "World",
