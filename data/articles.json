@@ -1,5 +1,86 @@
 [
   {
+    "date": "2026-10-19",
+    "source": "BBC News",
+    "category": "Health",
+    "title": "Resident doctors take strike action over pay",
+    "summary": "The BMA said there will \"undoubtedly be cancellation of operations, outpatient appointments and elective care\" but \"patient safety will still be prioritised\".",
+    "url": "https://www.bbc.co.uk/news/articles/cpv31erm387o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 29 Jun 2026 10:45:58 GMT",
+    "opinionPrompt": "After reading the article, state your opinion clearly. Give one reason and one example to support your point.",
+    "questions": [
+      "Can you explain this article in your own words?",
+      "What do you think about this topic?",
+      "Could this change people's daily habits or health decisions?",
+      "What is the strongest argument for and against what happened?",
+      "If you were advising the people involved, what would you tell them?",
+      "How might this story look different in ten years?"
+    ],
+    "angle": "Health stories affect daily habits. Separate what is proven from what is still uncertain, and think about who is most affected.",
+    "level": "Challenging",
+    "keywords": [
+      "Resident",
+      "doctors",
+      "take",
+      "strike"
+    ],
+    "vocabulary": [
+      {
+        "word": "allegedly",
+        "pos": "adv",
+        "meaning": "said to be true but not proven",
+        "example": "The firm allegedly ignored the warnings."
+      },
+      {
+        "word": "prospect",
+        "pos": "noun",
+        "meaning": "the possibility of something happening",
+        "example": "The prospect of a deal looks uncertain."
+      },
+      {
+        "word": "disrupt",
+        "pos": "verb",
+        "meaning": "to interrupt or change how something normally works",
+        "example": "New apps disrupted the taxi industry."
+      },
+      {
+        "word": "bolster",
+        "pos": "verb",
+        "meaning": "to strengthen or support",
+        "example": "The news bolstered investor confidence."
+      },
+      {
+        "word": "advocate",
+        "pos": "verb",
+        "meaning": "to publicly support an idea or cause",
+        "example": "She advocates for cleaner public transport."
+      },
+      {
+        "word": "exacerbate",
+        "pos": "verb",
+        "meaning": "to make a problem worse",
+        "example": "Delays only exacerbated the confusion."
+      },
+      {
+        "word": "fluctuate",
+        "pos": "verb",
+        "meaning": "to rise and fall irregularly",
+        "example": "Fuel prices fluctuate throughout the year."
+      },
+      {
+        "word": "scepticism",
+        "pos": "noun",
+        "meaning": "a doubting attitude toward claims",
+        "example": "Experts met the claim with scepticism."
+      }
+    ],
+    "idiom": {
+      "phrase": "the tip of the iceberg",
+      "meaning": "a small visible part of a much bigger problem",
+      "example": "These delays are just the tip of the iceberg."
+    }
+  },
+  {
     "date": "2026-10-18",
     "source": "BBC News",
     "category": "Science",
