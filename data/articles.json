@@ -1,5 +1,86 @@
 [
   {
+    "date": "2026-10-21",
+    "source": "BBC News",
+    "category": "Entertainment",
+    "title": "The Trip's Rob Brydon originally against playing fictional version of himself",
+    "summary": "Rob Brydon and Steve Coogan initially thought playing fictionalised versions of themselves was \"passé\".",
+    "url": "https://www.bbc.co.uk/news/articles/c5n49ll9l90wo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 20 Oct 2026 17:01:53 GMT",
+    "opinionPrompt": "After reading the article, state your opinion clearly. Give one reason and one example to support your point.",
+    "questions": [
+      "Can you explain this article in your own words?",
+      "What do you think about this topic?",
+      "How could this affect ordinary people's daily lives?",
+      "What is the strongest argument for and against what happened?",
+      "If you were advising the people involved, what would you tell them?",
+      "How might this story look different in ten years?"
+    ],
+    "angle": "Culture stories reveal what people value. Explain why the story is popular and what it says about society today.",
+    "level": "Challenging",
+    "keywords": [
+      "Trip's",
+      "Brydon",
+      "originally",
+      "against"
+    ],
+    "vocabulary": [
+      {
+        "word": "momentum",
+        "pos": "noun",
+        "meaning": "strength or speed gained as something develops",
+        "example": "The campaign is gaining momentum."
+      },
+      {
+        "word": "inevitable",
+        "pos": "adj",
+        "meaning": "certain to happen; unavoidable",
+        "example": "Some delays were inevitable."
+      },
+      {
+        "word": "viable",
+        "pos": "adj",
+        "meaning": "able to work successfully",
+        "example": "Solar power is now a viable option for homes."
+      },
+      {
+        "word": "accountable",
+        "pos": "adj",
+        "meaning": "responsible and expected to explain actions",
+        "example": "Leaders must be accountable to the public."
+      },
+      {
+        "word": "outweigh",
+        "pos": "verb",
+        "meaning": "to be greater in importance than",
+        "example": "The benefits outweigh the risks."
+      },
+      {
+        "word": "resilient",
+        "pos": "adj",
+        "meaning": "able to recover quickly from difficulty",
+        "example": "Small shops proved resilient during the downturn."
+      },
+      {
+        "word": "undermine",
+        "pos": "verb",
+        "meaning": "to weaken gradually",
+        "example": "Constant changes undermine trust in the system."
+      },
+      {
+        "word": "transparent",
+        "pos": "adj",
+        "meaning": "open and easy to understand or check",
+        "example": "The company promised to be transparent about costs."
+      }
+    ],
+    "idiom": {
+      "phrase": "a double-edged sword",
+      "meaning": "something with both good and bad effects",
+      "example": "Social media is a double-edged sword."
+    }
+  },
+  {
     "date": "2026-10-20",
     "source": "BBC News",
     "category": "India",
