@@ -1,5 +1,86 @@
 [
   {
+    "date": "2026-10-22",
+    "source": "BBC News",
+    "category": "Top Stories",
+    "title": "Four locations in the running to be UK City of Culture 2029",
+    "summary": "The winner, announced in early 2027, will receive £10m to deliver a year of cultural activities.",
+    "url": "https://www.bbc.co.uk/news/articles/c6jrw03njgxzo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 21 Oct 2026 23:02:37 GMT",
+    "opinionPrompt": "After reading the article, state your opinion clearly. Give one reason and one example to support your point.",
+    "questions": [
+      "Can you explain this article in your own words?",
+      "What do you think about this topic?",
+      "How could this affect ordinary people's daily lives?",
+      "What is the strongest argument for and against what happened?",
+      "If you were advising the people involved, what would you tell them?",
+      "How might this story look different in ten years?"
+    ],
+    "angle": "Top stories are chosen because many people care. Explain the headline simply first, then say why it matters now.",
+    "level": "Challenging",
+    "keywords": [
+      "Four",
+      "locations",
+      "running",
+      "City"
+    ],
+    "vocabulary": [
+      {
+        "word": "pragmatic",
+        "pos": "adj",
+        "meaning": "practical rather than idealistic",
+        "example": "He took a pragmatic approach to the budget."
+      },
+      {
+        "word": "substantial",
+        "pos": "adj",
+        "meaning": "large in amount or importance",
+        "example": "The firm made a substantial investment."
+      },
+      {
+        "word": "disrupt",
+        "pos": "verb",
+        "meaning": "to interrupt or change how something normally works",
+        "example": "New apps disrupted the taxi industry."
+      },
+      {
+        "word": "scepticism",
+        "pos": "noun",
+        "meaning": "a doubting attitude toward claims",
+        "example": "Experts met the claim with scepticism."
+      },
+      {
+        "word": "prospect",
+        "pos": "noun",
+        "meaning": "the possibility of something happening",
+        "example": "The prospect of a deal looks uncertain."
+      },
+      {
+        "word": "mitigate",
+        "pos": "verb",
+        "meaning": "to make something less harmful or severe",
+        "example": "Cities plant trees to mitigate rising heat."
+      },
+      {
+        "word": "ambiguous",
+        "pos": "adj",
+        "meaning": "open to more than one meaning",
+        "example": "The statement was deliberately ambiguous."
+      },
+      {
+        "word": "allegedly",
+        "pos": "adv",
+        "meaning": "said to be true but not proven",
+        "example": "The firm allegedly ignored the warnings."
+      }
+    ],
+    "idiom": {
+      "phrase": "raise the bar",
+      "meaning": "to set a higher standard",
+      "example": "The new model raises the bar for phones."
+    }
+  },
+  {
     "date": "2026-10-21",
     "source": "BBC News",
     "category": "Entertainment",
