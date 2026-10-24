@@ -1,5 +1,86 @@
 [
   {
+    "date": "2026-10-24",
+    "source": "BBC News",
+    "category": "World",
+    "title": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
+    "summary": "Ukrainians held alongside the American say they witnessed beatings and sexual humiliation by Russian guards during his detention.",
+    "url": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 23 Oct 2026 20:18:13 GMT",
+    "opinionPrompt": "After reading the article, state your opinion clearly. Give one reason and one example to support your point.",
+    "questions": [
+      "Can you explain this article in your own words?",
+      "What do you think about this topic?",
+      "How could this affect ordinary people's daily lives?",
+      "What is the strongest argument for and against what happened?",
+      "If you were advising the people involved, what would you tell them?",
+      "How might this story look different in ten years?"
+    ],
+    "angle": "World news is easier to explain when you separate the facts, the causes, and the reactions. Name the people involved before sharing an opinion.",
+    "level": "Challenging",
+    "keywords": [
+      "Freed",
+      "citizen",
+      "tortured",
+      "Russian"
+    ],
+    "vocabulary": [
+      {
+        "word": "comprehensive",
+        "pos": "adj",
+        "meaning": "complete and covering everything important",
+        "example": "They published a comprehensive safety report."
+      },
+      {
+        "word": "consensus",
+        "pos": "noun",
+        "meaning": "general agreement among a group",
+        "example": "There is no consensus on the best solution."
+      },
+      {
+        "word": "undermine",
+        "pos": "verb",
+        "meaning": "to weaken gradually",
+        "example": "Constant changes undermine trust in the system."
+      },
+      {
+        "word": "nuanced",
+        "pos": "adj",
+        "meaning": "showing subtle differences and detail",
+        "example": "It is a nuanced issue with no easy answer."
+      },
+      {
+        "word": "unprecedented",
+        "pos": "adj",
+        "meaning": "never having happened before",
+        "example": "The storm caused unprecedented damage."
+      },
+      {
+        "word": "outweigh",
+        "pos": "verb",
+        "meaning": "to be greater in importance than",
+        "example": "The benefits outweigh the risks."
+      },
+      {
+        "word": "momentum",
+        "pos": "noun",
+        "meaning": "strength or speed gained as something develops",
+        "example": "The campaign is gaining momentum."
+      },
+      {
+        "word": "exacerbate",
+        "pos": "verb",
+        "meaning": "to make a problem worse",
+        "example": "Delays only exacerbated the confusion."
+      }
+    ],
+    "idiom": {
+      "phrase": "a double-edged sword",
+      "meaning": "something with both good and bad effects",
+      "example": "Social media is a double-edged sword."
+    }
+  },
+  {
     "date": "2026-10-23",
     "source": "BBC News",
     "category": "Technology",
