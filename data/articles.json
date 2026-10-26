@@ -1,5 +1,86 @@
 [
   {
+    "date": "2026-10-26",
+    "source": "BBC News",
+    "category": "Science",
+    "title": "Project to restore rare native trees with DNA testing",
+    "summary": "Conservation groups say black poplars are endangered due to felling, land drainage and habitat loss.",
+    "url": "https://www.bbc.co.uk/news/articles/cw240ln41mq2o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 24 Oct 2026 06:17:32 GMT",
+    "opinionPrompt": "After reading the article, state your opinion clearly. Give one reason and one example to support your point.",
+    "questions": [
+      "Can you explain this article in your own words?",
+      "What do you think about this topic?",
+      "Why do you think this scientific development matters?",
+      "What is the strongest argument for and against what happened?",
+      "If you were advising the people involved, what would you tell them?",
+      "How might this story look different in ten years?"
+    ],
+    "angle": "Science stories show how discovery meets real-world limits. Explain what was tried, what happened, and what it teaches us next.",
+    "level": "Challenging",
+    "keywords": [
+      "Project",
+      "restore",
+      "rare",
+      "native"
+    ],
+    "vocabulary": [
+      {
+        "word": "allegedly",
+        "pos": "adv",
+        "meaning": "said to be true but not proven",
+        "example": "The firm allegedly ignored the warnings."
+      },
+      {
+        "word": "scrutiny",
+        "pos": "noun",
+        "meaning": "close and critical examination",
+        "example": "The plan faced intense scrutiny from experts."
+      },
+      {
+        "word": "controversial",
+        "pos": "adj",
+        "meaning": "causing public disagreement",
+        "example": "The decision proved highly controversial."
+      },
+      {
+        "word": "advocate",
+        "pos": "verb",
+        "meaning": "to publicly support an idea or cause",
+        "example": "She advocates for cleaner public transport."
+      },
+      {
+        "word": "substantial",
+        "pos": "adj",
+        "meaning": "large in amount or importance",
+        "example": "The firm made a substantial investment."
+      },
+      {
+        "word": "incentive",
+        "pos": "noun",
+        "meaning": "something that motivates action",
+        "example": "Tax breaks are an incentive to go electric."
+      },
+      {
+        "word": "vulnerable",
+        "pos": "adj",
+        "meaning": "easily harmed or affected",
+        "example": "Older people are most vulnerable to the heat."
+      },
+      {
+        "word": "fluctuate",
+        "pos": "verb",
+        "meaning": "to rise and fall irregularly",
+        "example": "Fuel prices fluctuate throughout the year."
+      }
+    ],
+    "idiom": {
+      "phrase": "a blessing in disguise",
+      "meaning": "something that seems bad but turns out good",
+      "example": "Losing that deal was a blessing in disguise."
+    }
+  },
+  {
     "date": "2026-10-25",
     "source": "BBC News",
     "category": "Business",
