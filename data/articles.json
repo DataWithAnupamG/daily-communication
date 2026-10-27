@@ -1,5 +1,85 @@
 [
   {
+    "date": "2026-10-27",
+    "source": "BBC News",
+    "category": "Health",
+    "title": "Yes, hang-xiety is a real thing",
+    "summary": "Waking up feeling hungover AND anxious? BBC Health's Chloe Hayward explains the science behind hang-xiety.",
+    "url": "https://www.bbc.co.uk/news/videos/ck98zyyer83mo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 09 Oct 2026 14:59:16 GMT",
+    "opinionPrompt": "After reading the article, state your opinion clearly. Give one reason and one example to support your point.",
+    "questions": [
+      "Can you explain this article in your own words?",
+      "What do you think about this topic?",
+      "Could this change people's daily habits or health decisions?",
+      "What is the strongest argument for and against what happened?",
+      "If you were advising the people involved, what would you tell them?",
+      "How might this story look different in ten years?"
+    ],
+    "angle": "Health stories affect daily habits. Separate what is proven from what is still uncertain, and think about who is most affected.",
+    "level": "Medium",
+    "keywords": [
+      "hang-xiety",
+      "real",
+      "thing"
+    ],
+    "vocabulary": [
+      {
+        "word": "escalate",
+        "pos": "verb",
+        "meaning": "to become more intense or serious",
+        "example": "Tensions began to escalate overnight."
+      },
+      {
+        "word": "scepticism",
+        "pos": "noun",
+        "meaning": "a doubting attitude toward claims",
+        "example": "Experts met the claim with scepticism."
+      },
+      {
+        "word": "unprecedented",
+        "pos": "adj",
+        "meaning": "never having happened before",
+        "example": "The storm caused unprecedented damage."
+      },
+      {
+        "word": "transparent",
+        "pos": "adj",
+        "meaning": "open and easy to understand or check",
+        "example": "The company promised to be transparent about costs."
+      },
+      {
+        "word": "leverage",
+        "pos": "verb",
+        "meaning": "to use something to maximum advantage",
+        "example": "Teams leverage data to make faster decisions."
+      },
+      {
+        "word": "accountable",
+        "pos": "adj",
+        "meaning": "responsible and expected to explain actions",
+        "example": "Leaders must be accountable to the public."
+      },
+      {
+        "word": "exacerbate",
+        "pos": "verb",
+        "meaning": "to make a problem worse",
+        "example": "Delays only exacerbated the confusion."
+      },
+      {
+        "word": "repercussion",
+        "pos": "noun",
+        "meaning": "an indirect, often unwelcome result",
+        "example": "The move had wide repercussions."
+      }
+    ],
+    "idiom": {
+      "phrase": "the tip of the iceberg",
+      "meaning": "a small visible part of a much bigger problem",
+      "example": "These delays are just the tip of the iceberg."
+    }
+  },
+  {
     "date": "2026-10-26",
     "source": "BBC News",
     "category": "Science",
