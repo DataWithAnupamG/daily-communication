@@ -1,5 +1,86 @@
 [
   {
+    "date": "2026-10-28",
+    "source": "BBC News",
+    "category": "India",
+    "title": "Boardroom feud tests trusted Indian business empire",
+    "summary": "The dispute raises questions about the Indian conglomerate's governance, succession plans and future.",
+    "url": "https://www.bbc.co.uk/news/articles/c54g1mp7lz7zo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 12 Oct 2026 23:10:32 GMT",
+    "opinionPrompt": "After reading the article, state your opinion clearly. Give one reason and one example to support your point.",
+    "questions": [
+      "Can you explain this article in your own words?",
+      "What do you think about this topic?",
+      "How might this matter to people living in India?",
+      "What is the strongest argument for and against what happened?",
+      "If you were advising the people involved, what would you tell them?",
+      "How might this story look different in ten years?"
+    ],
+    "angle": "Stories about India often connect local life with national policy. Think about how the news touches families, cities, and work.",
+    "level": "Challenging",
+    "keywords": [
+      "Boardroom",
+      "feud",
+      "tests",
+      "trusted"
+    ],
+    "vocabulary": [
+      {
+        "word": "outweigh",
+        "pos": "verb",
+        "meaning": "to be greater in importance than",
+        "example": "The benefits outweigh the risks."
+      },
+      {
+        "word": "undermine",
+        "pos": "verb",
+        "meaning": "to weaken gradually",
+        "example": "Constant changes undermine trust in the system."
+      },
+      {
+        "word": "prospect",
+        "pos": "noun",
+        "meaning": "the possibility of something happening",
+        "example": "The prospect of a deal looks uncertain."
+      },
+      {
+        "word": "mitigate",
+        "pos": "verb",
+        "meaning": "to make something less harmful or severe",
+        "example": "Cities plant trees to mitigate rising heat."
+      },
+      {
+        "word": "pragmatic",
+        "pos": "adj",
+        "meaning": "practical rather than idealistic",
+        "example": "He took a pragmatic approach to the budget."
+      },
+      {
+        "word": "resilient",
+        "pos": "adj",
+        "meaning": "able to recover quickly from difficulty",
+        "example": "Small shops proved resilient during the downturn."
+      },
+      {
+        "word": "consensus",
+        "pos": "noun",
+        "meaning": "general agreement among a group",
+        "example": "There is no consensus on the best solution."
+      },
+      {
+        "word": "nuanced",
+        "pos": "adj",
+        "meaning": "showing subtle differences and detail",
+        "example": "It is a nuanced issue with no easy answer."
+      }
+    ],
+    "idiom": {
+      "phrase": "the tip of the iceberg",
+      "meaning": "a small visible part of a much bigger problem",
+      "example": "These delays are just the tip of the iceberg."
+    }
+  },
+  {
     "date": "2026-10-27",
     "source": "BBC News",
     "category": "Health",
