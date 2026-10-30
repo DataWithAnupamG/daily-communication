@@ -1,5 +1,86 @@
 [
   {
+    "date": "2026-10-30",
+    "source": "BBC News",
+    "category": "Top Stories",
+    "title": "What are the government's options for reducing welfare spending?",
+    "summary": "BBC Verify examines how much the welfare system costs and the options the government could use to reduce it.",
+    "url": "https://www.bbc.co.uk/news/articles/cwy7l1lrkmk2o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 29 Oct 2026 17:59:57 GMT",
+    "opinionPrompt": "After reading the article, state your opinion clearly. Give one reason and one example to support your point.",
+    "questions": [
+      "Can you explain this article in your own words?",
+      "What do you think about this topic?",
+      "How could this affect ordinary people's daily lives?",
+      "What is the strongest argument for and against what happened?",
+      "If you were advising the people involved, what would you tell them?",
+      "How might this story look different in ten years?"
+    ],
+    "angle": "Top stories are chosen because many people care. Explain the headline simply first, then say why it matters now.",
+    "level": "Challenging",
+    "keywords": [
+      "What",
+      "government's",
+      "options",
+      "reducing"
+    ],
+    "vocabulary": [
+      {
+        "word": "leverage",
+        "pos": "verb",
+        "meaning": "to use something to maximum advantage",
+        "example": "Teams leverage data to make faster decisions."
+      },
+      {
+        "word": "vulnerable",
+        "pos": "adj",
+        "meaning": "easily harmed or affected",
+        "example": "Older people are most vulnerable to the heat."
+      },
+      {
+        "word": "unprecedented",
+        "pos": "adj",
+        "meaning": "never having happened before",
+        "example": "The storm caused unprecedented damage."
+      },
+      {
+        "word": "ambiguous",
+        "pos": "adj",
+        "meaning": "open to more than one meaning",
+        "example": "The statement was deliberately ambiguous."
+      },
+      {
+        "word": "fluctuate",
+        "pos": "verb",
+        "meaning": "to rise and fall irregularly",
+        "example": "Fuel prices fluctuate throughout the year."
+      },
+      {
+        "word": "accountable",
+        "pos": "adj",
+        "meaning": "responsible and expected to explain actions",
+        "example": "Leaders must be accountable to the public."
+      },
+      {
+        "word": "incentive",
+        "pos": "noun",
+        "meaning": "something that motivates action",
+        "example": "Tax breaks are an incentive to go electric."
+      },
+      {
+        "word": "scepticism",
+        "pos": "noun",
+        "meaning": "a doubting attitude toward claims",
+        "example": "Experts met the claim with scepticism."
+      }
+    ],
+    "idiom": {
+      "phrase": "read between the lines",
+      "meaning": "to find the hidden meaning",
+      "example": "If you read between the lines, prices will rise."
+    }
+  },
+  {
     "date": "2026-10-29",
     "source": "BBC News",
     "category": "Entertainment",
