@@ -1,5 +1,86 @@
 [
   {
+    "date": "2026-11-01",
+    "source": "BBC News",
+    "category": "World",
+    "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
+    "summary": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary.",
+    "url": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 01 Nov 2026 00:55:06 GMT",
+    "opinionPrompt": "After reading the article, state your opinion clearly. Give one reason and one example to support your point.",
+    "questions": [
+      "Can you explain this article in your own words?",
+      "What do you think about this topic?",
+      "How could this affect ordinary people's daily lives?",
+      "What is the strongest argument for and against what happened?",
+      "If you were advising the people involved, what would you tell them?",
+      "How might this story look different in ten years?"
+    ],
+    "angle": "World news is easier to explain when you separate the facts, the causes, and the reactions. Name the people involved before sharing an opinion.",
+    "level": "Medium",
+    "keywords": [
+      "downfall",
+      "Serbia's",
+      "mirrored",
+      "Hungary's"
+    ],
+    "vocabulary": [
+      {
+        "word": "mitigate",
+        "pos": "verb",
+        "meaning": "to make something less harmful or severe",
+        "example": "Cities plant trees to mitigate rising heat."
+      },
+      {
+        "word": "controversial",
+        "pos": "adj",
+        "meaning": "causing public disagreement",
+        "example": "The decision proved highly controversial."
+      },
+      {
+        "word": "allegedly",
+        "pos": "adv",
+        "meaning": "said to be true but not proven",
+        "example": "The firm allegedly ignored the warnings."
+      },
+      {
+        "word": "comprehensive",
+        "pos": "adj",
+        "meaning": "complete and covering everything important",
+        "example": "They published a comprehensive safety report."
+      },
+      {
+        "word": "exacerbate",
+        "pos": "verb",
+        "meaning": "to make a problem worse",
+        "example": "Delays only exacerbated the confusion."
+      },
+      {
+        "word": "scrutiny",
+        "pos": "noun",
+        "meaning": "close and critical examination",
+        "example": "The plan faced intense scrutiny from experts."
+      },
+      {
+        "word": "escalate",
+        "pos": "verb",
+        "meaning": "to become more intense or serious",
+        "example": "Tensions began to escalate overnight."
+      },
+      {
+        "word": "prospect",
+        "pos": "noun",
+        "meaning": "the possibility of something happening",
+        "example": "The prospect of a deal looks uncertain."
+      }
+    ],
+    "idiom": {
+      "phrase": "raise the bar",
+      "meaning": "to set a higher standard",
+      "example": "The new model raises the bar for phones."
+    }
+  },
+  {
     "date": "2026-10-31",
     "source": "BBC News",
     "category": "Technology",
