@@ -1,5 +1,86 @@
 [
   {
+    "date": "2026-11-02",
+    "source": "BBC News",
+    "category": "Business",
+    "title": "Watch: Hundreds queue for city's new Lego store",
+    "summary": "Fans queued for hours ahead of the opening of a new Lego Store in Norwich.",
+    "url": "https://www.bbc.co.uk/news/videos/cw1m4k1nx5r0o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 29 Oct 2026 17:10:34 GMT",
+    "opinionPrompt": "After reading the article, state your opinion clearly. Give one reason and one example to support your point.",
+    "questions": [
+      "Can you explain this article in your own words?",
+      "What do you think about this topic?",
+      "How could this affect businesses or jobs?",
+      "What is the strongest argument for and against what happened?",
+      "If you were advising the people involved, what would you tell them?",
+      "How might this story look different in ten years?"
+    ],
+    "angle": "Business stories follow money and incentives. Ask who pays, who profits, and how ordinary customers or workers feel the effect.",
+    "level": "Easy",
+    "keywords": [
+      "Watch",
+      "Hundreds",
+      "queue",
+      "city's"
+    ],
+    "vocabulary": [
+      {
+        "word": "scepticism",
+        "pos": "noun",
+        "meaning": "a doubting attitude toward claims",
+        "example": "Experts met the claim with scepticism."
+      },
+      {
+        "word": "vulnerable",
+        "pos": "adj",
+        "meaning": "easily harmed or affected",
+        "example": "Older people are most vulnerable to the heat."
+      },
+      {
+        "word": "momentum",
+        "pos": "noun",
+        "meaning": "strength or speed gained as something develops",
+        "example": "The campaign is gaining momentum."
+      },
+      {
+        "word": "leverage",
+        "pos": "verb",
+        "meaning": "to use something to maximum advantage",
+        "example": "Teams leverage data to make faster decisions."
+      },
+      {
+        "word": "advocate",
+        "pos": "verb",
+        "meaning": "to publicly support an idea or cause",
+        "example": "She advocates for cleaner public transport."
+      },
+      {
+        "word": "unprecedented",
+        "pos": "adj",
+        "meaning": "never having happened before",
+        "example": "The storm caused unprecedented damage."
+      },
+      {
+        "word": "incentive",
+        "pos": "noun",
+        "meaning": "something that motivates action",
+        "example": "Tax breaks are an incentive to go electric."
+      },
+      {
+        "word": "substantial",
+        "pos": "adj",
+        "meaning": "large in amount or importance",
+        "example": "The firm made a substantial investment."
+      }
+    ],
+    "idiom": {
+      "phrase": "the tip of the iceberg",
+      "meaning": "a small visible part of a much bigger problem",
+      "example": "These delays are just the tip of the iceberg."
+    }
+  },
+  {
     "date": "2026-11-01",
     "source": "BBC News",
     "category": "World",
