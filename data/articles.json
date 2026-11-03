@@ -1,5 +1,86 @@
 [
   {
+    "date": "2026-11-03",
+    "source": "BBC News",
+    "category": "Science",
+    "title": "Dry weather for most of the UK for next ten days",
+    "summary": "High pressure is set to bring a long spell of dry weather to the UK doing little to alleviate drought conditions across most of England.",
+    "url": "https://www.bbc.co.uk/weather/articles/c6ly075l742ro?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 30 Oct 2026 06:18:35 GMT",
+    "opinionPrompt": "After reading the article, state your opinion clearly. Give one reason and one example to support your point.",
+    "questions": [
+      "Can you explain this article in your own words?",
+      "What do you think about this topic?",
+      "Why do you think this scientific development matters?",
+      "What is the strongest argument for and against what happened?",
+      "If you were advising the people involved, what would you tell them?",
+      "How might this story look different in ten years?"
+    ],
+    "angle": "Science stories show how discovery meets real-world limits. Explain what was tried, what happened, and what it teaches us next.",
+    "level": "Medium",
+    "keywords": [
+      "weather",
+      "most",
+      "next",
+      "days"
+    ],
+    "vocabulary": [
+      {
+        "word": "pragmatic",
+        "pos": "adj",
+        "meaning": "practical rather than idealistic",
+        "example": "He took a pragmatic approach to the budget."
+      },
+      {
+        "word": "fluctuate",
+        "pos": "verb",
+        "meaning": "to rise and fall irregularly",
+        "example": "Fuel prices fluctuate throughout the year."
+      },
+      {
+        "word": "bolster",
+        "pos": "verb",
+        "meaning": "to strengthen or support",
+        "example": "The news bolstered investor confidence."
+      },
+      {
+        "word": "transparent",
+        "pos": "adj",
+        "meaning": "open and easy to understand or check",
+        "example": "The company promised to be transparent about costs."
+      },
+      {
+        "word": "implication",
+        "pos": "noun",
+        "meaning": "a likely effect or consequence",
+        "example": "The law has serious implications for startups."
+      },
+      {
+        "word": "consensus",
+        "pos": "noun",
+        "meaning": "general agreement among a group",
+        "example": "There is no consensus on the best solution."
+      },
+      {
+        "word": "viable",
+        "pos": "adj",
+        "meaning": "able to work successfully",
+        "example": "Solar power is now a viable option for homes."
+      },
+      {
+        "word": "undermine",
+        "pos": "verb",
+        "meaning": "to weaken gradually",
+        "example": "Constant changes undermine trust in the system."
+      }
+    ],
+    "idiom": {
+      "phrase": "back to square one",
+      "meaning": "to have to start again from the beginning",
+      "example": "The test failed, so we are back to square one."
+    }
+  },
+  {
     "date": "2026-11-02",
     "source": "BBC News",
     "category": "Business",
