@@ -1,5 +1,86 @@
 [
   {
+    "date": "2026-11-04",
+    "source": "BBC News",
+    "category": "Health",
+    "title": "Doctors vote to take strike action in row over pay",
+    "summary": "The British Medical Association is in dispute with Manx Care over \"pay erosion since 2008\".",
+    "url": "https://www.bbc.co.uk/news/articles/c24y8jlvy2vo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 03 Jul 2026 10:08:16 GMT",
+    "opinionPrompt": "After reading the article, state your opinion clearly. Give one reason and one example to support your point.",
+    "questions": [
+      "Can you explain this article in your own words?",
+      "What do you think about this topic?",
+      "Could this change people's daily habits or health decisions?",
+      "What is the strongest argument for and against what happened?",
+      "If you were advising the people involved, what would you tell them?",
+      "How might this story look different in ten years?"
+    ],
+    "angle": "Health stories affect daily habits. Separate what is proven from what is still uncertain, and think about who is most affected.",
+    "level": "Challenging",
+    "keywords": [
+      "Doctors",
+      "vote",
+      "take",
+      "strike"
+    ],
+    "vocabulary": [
+      {
+        "word": "prospect",
+        "pos": "noun",
+        "meaning": "the possibility of something happening",
+        "example": "The prospect of a deal looks uncertain."
+      },
+      {
+        "word": "accountable",
+        "pos": "adj",
+        "meaning": "responsible and expected to explain actions",
+        "example": "Leaders must be accountable to the public."
+      },
+      {
+        "word": "scrutiny",
+        "pos": "noun",
+        "meaning": "close and critical examination",
+        "example": "The plan faced intense scrutiny from experts."
+      },
+      {
+        "word": "inevitable",
+        "pos": "adj",
+        "meaning": "certain to happen; unavoidable",
+        "example": "Some delays were inevitable."
+      },
+      {
+        "word": "ambiguous",
+        "pos": "adj",
+        "meaning": "open to more than one meaning",
+        "example": "The statement was deliberately ambiguous."
+      },
+      {
+        "word": "resilient",
+        "pos": "adj",
+        "meaning": "able to recover quickly from difficulty",
+        "example": "Small shops proved resilient during the downturn."
+      },
+      {
+        "word": "controversial",
+        "pos": "adj",
+        "meaning": "causing public disagreement",
+        "example": "The decision proved highly controversial."
+      },
+      {
+        "word": "allegedly",
+        "pos": "adv",
+        "meaning": "said to be true but not proven",
+        "example": "The firm allegedly ignored the warnings."
+      }
+    ],
+    "idiom": {
+      "phrase": "move the goalposts",
+      "meaning": "to change the rules so success is harder",
+      "example": "They moved the goalposts after we agreed."
+    }
+  },
+  {
     "date": "2026-11-03",
     "source": "BBC News",
     "category": "Science",
