@@ -1,5 +1,86 @@
 [
   {
+    "date": "2026-11-05",
+    "source": "BBC News",
+    "category": "India",
+    "title": "Women protest in the streets of Delhi after string of sexual assaults",
+    "summary": "BBC correspondent Azadeh Moshiri reports from Delhi, where hundreds of women are protesting.",
+    "url": "https://www.bbc.co.uk/news/videos/cm70lpg5z45go?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 28 Sep 2026 16:15:57 GMT",
+    "opinionPrompt": "After reading the article, state your opinion clearly. Give one reason and one example to support your point.",
+    "questions": [
+      "Can you explain this article in your own words?",
+      "What do you think about this topic?",
+      "How might this matter to people living in India?",
+      "What is the strongest argument for and against what happened?",
+      "If you were advising the people involved, what would you tell them?",
+      "How might this story look different in ten years?"
+    ],
+    "angle": "Stories about India often connect local life with national policy. Think about how the news touches families, cities, and work.",
+    "level": "Challenging",
+    "keywords": [
+      "Women",
+      "protest",
+      "streets",
+      "Delhi"
+    ],
+    "vocabulary": [
+      {
+        "word": "mitigate",
+        "pos": "verb",
+        "meaning": "to make something less harmful or severe",
+        "example": "Cities plant trees to mitigate rising heat."
+      },
+      {
+        "word": "unprecedented",
+        "pos": "adj",
+        "meaning": "never having happened before",
+        "example": "The storm caused unprecedented damage."
+      },
+      {
+        "word": "momentum",
+        "pos": "noun",
+        "meaning": "strength or speed gained as something develops",
+        "example": "The campaign is gaining momentum."
+      },
+      {
+        "word": "substantial",
+        "pos": "adj",
+        "meaning": "large in amount or importance",
+        "example": "The firm made a substantial investment."
+      },
+      {
+        "word": "nuanced",
+        "pos": "adj",
+        "meaning": "showing subtle differences and detail",
+        "example": "It is a nuanced issue with no easy answer."
+      },
+      {
+        "word": "vulnerable",
+        "pos": "adj",
+        "meaning": "easily harmed or affected",
+        "example": "Older people are most vulnerable to the heat."
+      },
+      {
+        "word": "escalate",
+        "pos": "verb",
+        "meaning": "to become more intense or serious",
+        "example": "Tensions began to escalate overnight."
+      },
+      {
+        "word": "incentive",
+        "pos": "noun",
+        "meaning": "something that motivates action",
+        "example": "Tax breaks are an incentive to go electric."
+      }
+    ],
+    "idiom": {
+      "phrase": "move the goalposts",
+      "meaning": "to change the rules so success is harder",
+      "example": "They moved the goalposts after we agreed."
+    }
+  },
+  {
     "date": "2026-11-04",
     "source": "BBC News",
     "category": "Health",
