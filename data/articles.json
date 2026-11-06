@@ -1,5 +1,86 @@
 [
   {
+    "date": "2026-11-06",
+    "source": "BBC News",
+    "category": "Entertainment",
+    "title": "'It's been killing me!' Celebrity Traitors winners relieved the secret is out",
+    "summary": "The second series of the hit show reached its finale on Friday, attracting a whopping 11.2 million live viewers.",
+    "url": "https://www.bbc.co.uk/news/articles/cm4g18l8l4wgo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 31 Oct 2026 16:49:18 GMT",
+    "opinionPrompt": "After reading the article, state your opinion clearly. Give one reason and one example to support your point.",
+    "questions": [
+      "Can you explain this article in your own words?",
+      "What do you think about this topic?",
+      "How could this affect ordinary people's daily lives?",
+      "What is the strongest argument for and against what happened?",
+      "If you were advising the people involved, what would you tell them?",
+      "How might this story look different in ten years?"
+    ],
+    "angle": "Culture stories reveal what people value. Explain why the story is popular and what it says about society today.",
+    "level": "Medium",
+    "keywords": [
+      "It's",
+      "been",
+      "killing",
+      "Celebrity"
+    ],
+    "vocabulary": [
+      {
+        "word": "repercussion",
+        "pos": "noun",
+        "meaning": "an indirect, often unwelcome result",
+        "example": "The move had wide repercussions."
+      },
+      {
+        "word": "outweigh",
+        "pos": "verb",
+        "meaning": "to be greater in importance than",
+        "example": "The benefits outweigh the risks."
+      },
+      {
+        "word": "scepticism",
+        "pos": "noun",
+        "meaning": "a doubting attitude toward claims",
+        "example": "Experts met the claim with scepticism."
+      },
+      {
+        "word": "advocate",
+        "pos": "verb",
+        "meaning": "to publicly support an idea or cause",
+        "example": "She advocates for cleaner public transport."
+      },
+      {
+        "word": "exacerbate",
+        "pos": "verb",
+        "meaning": "to make a problem worse",
+        "example": "Delays only exacerbated the confusion."
+      },
+      {
+        "word": "viable",
+        "pos": "adj",
+        "meaning": "able to work successfully",
+        "example": "Solar power is now a viable option for homes."
+      },
+      {
+        "word": "comprehensive",
+        "pos": "adj",
+        "meaning": "complete and covering everything important",
+        "example": "They published a comprehensive safety report."
+      },
+      {
+        "word": "pragmatic",
+        "pos": "adj",
+        "meaning": "practical rather than idealistic",
+        "example": "He took a pragmatic approach to the budget."
+      }
+    ],
+    "idiom": {
+      "phrase": "move the goalposts",
+      "meaning": "to change the rules so success is harder",
+      "example": "They moved the goalposts after we agreed."
+    }
+  },
+  {
     "date": "2026-11-05",
     "source": "BBC News",
     "category": "India",
