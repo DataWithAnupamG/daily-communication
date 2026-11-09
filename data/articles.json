@@ -1,5 +1,86 @@
 [
   {
+    "date": "2026-11-09",
+    "source": "BBC News",
+    "category": "World",
+    "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+    "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+    "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 08 Nov 2026 23:34:18 GMT",
+    "opinionPrompt": "After reading the article, state your opinion clearly. Give one reason and one example to support your point.",
+    "questions": [
+      "Can you explain this article in your own words?",
+      "What do you think about this topic?",
+      "How could this affect ordinary people's daily lives?",
+      "What is the strongest argument for and against what happened?",
+      "If you were advising the people involved, what would you tell them?",
+      "How might this story look different in ten years?"
+    ],
+    "angle": "World news is easier to explain when you separate the facts, the causes, and the reactions. Name the people involved before sharing an opinion.",
+    "level": "Challenging",
+    "keywords": [
+      "Surgeon",
+      "having",
+      "lunch",
+      "near"
+    ],
+    "vocabulary": [
+      {
+        "word": "scepticism",
+        "pos": "noun",
+        "meaning": "a doubting attitude toward claims",
+        "example": "Experts met the claim with scepticism."
+      },
+      {
+        "word": "escalate",
+        "pos": "verb",
+        "meaning": "to become more intense or serious",
+        "example": "Tensions began to escalate overnight."
+      },
+      {
+        "word": "disrupt",
+        "pos": "verb",
+        "meaning": "to interrupt or change how something normally works",
+        "example": "New apps disrupted the taxi industry."
+      },
+      {
+        "word": "momentum",
+        "pos": "noun",
+        "meaning": "strength or speed gained as something develops",
+        "example": "The campaign is gaining momentum."
+      },
+      {
+        "word": "unprecedented",
+        "pos": "adj",
+        "meaning": "never having happened before",
+        "example": "The storm caused unprecedented damage."
+      },
+      {
+        "word": "fluctuate",
+        "pos": "verb",
+        "meaning": "to rise and fall irregularly",
+        "example": "Fuel prices fluctuate throughout the year."
+      },
+      {
+        "word": "controversial",
+        "pos": "adj",
+        "meaning": "causing public disagreement",
+        "example": "The decision proved highly controversial."
+      },
+      {
+        "word": "nuanced",
+        "pos": "adj",
+        "meaning": "showing subtle differences and detail",
+        "example": "It is a nuanced issue with no easy answer."
+      }
+    ],
+    "idiom": {
+      "phrase": "back to square one",
+      "meaning": "to have to start again from the beginning",
+      "example": "The test failed, so we are back to square one."
+    }
+  },
+  {
     "date": "2026-11-08",
     "source": "BBC News",
     "category": "Technology",
