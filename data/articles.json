@@ -1,5 +1,86 @@
 [
   {
+    "date": "2026-11-10",
+    "source": "BBC News",
+    "category": "Business",
+    "title": "The superpower battle over energy – and what it means for your bills",
+    "summary": "A tug-of-war between China and the US could have a big impact on energy costs, but who will win?",
+    "url": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 10 Nov 2026 00:08:28 GMT",
+    "opinionPrompt": "After reading the article, state your opinion clearly. Give one reason and one example to support your point.",
+    "questions": [
+      "Can you explain this article in your own words?",
+      "What do you think about this topic?",
+      "How could this affect businesses or jobs?",
+      "What is the strongest argument for and against what happened?",
+      "If you were advising the people involved, what would you tell them?",
+      "How might this story look different in ten years?"
+    ],
+    "angle": "Business stories follow money and incentives. Ask who pays, who profits, and how ordinary customers or workers feel the effect.",
+    "level": "Easy",
+    "keywords": [
+      "superpower",
+      "battle",
+      "energy",
+      "what"
+    ],
+    "vocabulary": [
+      {
+        "word": "scrutiny",
+        "pos": "noun",
+        "meaning": "close and critical examination",
+        "example": "The plan faced intense scrutiny from experts."
+      },
+      {
+        "word": "viable",
+        "pos": "adj",
+        "meaning": "able to work successfully",
+        "example": "Solar power is now a viable option for homes."
+      },
+      {
+        "word": "mitigate",
+        "pos": "verb",
+        "meaning": "to make something less harmful or severe",
+        "example": "Cities plant trees to mitigate rising heat."
+      },
+      {
+        "word": "advocate",
+        "pos": "verb",
+        "meaning": "to publicly support an idea or cause",
+        "example": "She advocates for cleaner public transport."
+      },
+      {
+        "word": "comprehensive",
+        "pos": "adj",
+        "meaning": "complete and covering everything important",
+        "example": "They published a comprehensive safety report."
+      },
+      {
+        "word": "implication",
+        "pos": "noun",
+        "meaning": "a likely effect or consequence",
+        "example": "The law has serious implications for startups."
+      },
+      {
+        "word": "pragmatic",
+        "pos": "adj",
+        "meaning": "practical rather than idealistic",
+        "example": "He took a pragmatic approach to the budget."
+      },
+      {
+        "word": "resilient",
+        "pos": "adj",
+        "meaning": "able to recover quickly from difficulty",
+        "example": "Small shops proved resilient during the downturn."
+      }
+    ],
+    "idiom": {
+      "phrase": "raise the bar",
+      "meaning": "to set a higher standard",
+      "example": "The new model raises the bar for phones."
+    }
+  },
+  {
     "date": "2026-11-09",
     "source": "BBC News",
     "category": "World",
