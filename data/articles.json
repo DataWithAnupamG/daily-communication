@@ -1,5 +1,86 @@
 [
   {
+    "date": "2026-11-12",
+    "source": "BBC News",
+    "category": "Health",
+    "title": "I didn't know I was lacking in vitamin D until I collapsed at work",
+    "summary": "Doctors are finding vitamin D deficiency is increasingly widespread in the UK, especially in young people. But the symptoms are difficult to spot and can be missed.",
+    "url": "https://www.bbc.co.uk/news/articles/cm78pxxe55v0o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 30 Oct 2026 00:29:05 GMT",
+    "opinionPrompt": "After reading the article, state your opinion clearly. Give one reason and one example to support your point.",
+    "questions": [
+      "Can you explain this article in your own words?",
+      "What do you think about this topic?",
+      "Could this change people's daily habits or health decisions?",
+      "What is the strongest argument for and against what happened?",
+      "If you were advising the people involved, what would you tell them?",
+      "How might this story look different in ten years?"
+    ],
+    "angle": "Health stories affect daily habits. Separate what is proven from what is still uncertain, and think about who is most affected.",
+    "level": "Challenging",
+    "keywords": [
+      "didn't",
+      "know",
+      "lacking",
+      "vitamin"
+    ],
+    "vocabulary": [
+      {
+        "word": "ambiguous",
+        "pos": "adj",
+        "meaning": "open to more than one meaning",
+        "example": "The statement was deliberately ambiguous."
+      },
+      {
+        "word": "scepticism",
+        "pos": "noun",
+        "meaning": "a doubting attitude toward claims",
+        "example": "Experts met the claim with scepticism."
+      },
+      {
+        "word": "nuanced",
+        "pos": "adj",
+        "meaning": "showing subtle differences and detail",
+        "example": "It is a nuanced issue with no easy answer."
+      },
+      {
+        "word": "momentum",
+        "pos": "noun",
+        "meaning": "strength or speed gained as something develops",
+        "example": "The campaign is gaining momentum."
+      },
+      {
+        "word": "bolster",
+        "pos": "verb",
+        "meaning": "to strengthen or support",
+        "example": "The news bolstered investor confidence."
+      },
+      {
+        "word": "inevitable",
+        "pos": "adj",
+        "meaning": "certain to happen; unavoidable",
+        "example": "Some delays were inevitable."
+      },
+      {
+        "word": "prospect",
+        "pos": "noun",
+        "meaning": "the possibility of something happening",
+        "example": "The prospect of a deal looks uncertain."
+      },
+      {
+        "word": "transparent",
+        "pos": "adj",
+        "meaning": "open and easy to understand or check",
+        "example": "The company promised to be transparent about costs."
+      }
+    ],
+    "idiom": {
+      "phrase": "a double-edged sword",
+      "meaning": "something with both good and bad effects",
+      "example": "Social media is a double-edged sword."
+    }
+  },
+  {
     "date": "2026-11-11",
     "source": "BBC News",
     "category": "Science",
