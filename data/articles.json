@@ -1,5 +1,86 @@
 [
   {
+    "date": "2026-11-15",
+    "source": "BBC News",
+    "category": "Top Stories",
+    "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+    "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+    "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 14 Nov 2026 22:09:40 GMT",
+    "opinionPrompt": "After reading the article, state your opinion clearly. Give one reason and one example to support your point.",
+    "questions": [
+      "Can you explain this article in your own words?",
+      "What do you think about this topic?",
+      "How could this affect ordinary people's daily lives?",
+      "What is the strongest argument for and against what happened?",
+      "If you were advising the people involved, what would you tell them?",
+      "How might this story look different in ten years?"
+    ],
+    "angle": "Top stories are chosen because many people care. Explain the headline simply first, then say why it matters now.",
+    "level": "Challenging",
+    "keywords": [
+      "believe",
+      "SpaceX",
+      "catches",
+      "part"
+    ],
+    "vocabulary": [
+      {
+        "word": "nuanced",
+        "pos": "adj",
+        "meaning": "showing subtle differences and detail",
+        "example": "It is a nuanced issue with no easy answer."
+      },
+      {
+        "word": "substantial",
+        "pos": "adj",
+        "meaning": "large in amount or importance",
+        "example": "The firm made a substantial investment."
+      },
+      {
+        "word": "scrutiny",
+        "pos": "noun",
+        "meaning": "close and critical examination",
+        "example": "The plan faced intense scrutiny from experts."
+      },
+      {
+        "word": "accountable",
+        "pos": "adj",
+        "meaning": "responsible and expected to explain actions",
+        "example": "Leaders must be accountable to the public."
+      },
+      {
+        "word": "fluctuate",
+        "pos": "verb",
+        "meaning": "to rise and fall irregularly",
+        "example": "Fuel prices fluctuate throughout the year."
+      },
+      {
+        "word": "prospect",
+        "pos": "noun",
+        "meaning": "the possibility of something happening",
+        "example": "The prospect of a deal looks uncertain."
+      },
+      {
+        "word": "incentive",
+        "pos": "noun",
+        "meaning": "something that motivates action",
+        "example": "Tax breaks are an incentive to go electric."
+      },
+      {
+        "word": "unprecedented",
+        "pos": "adj",
+        "meaning": "never having happened before",
+        "example": "The storm caused unprecedented damage."
+      }
+    ],
+    "idiom": {
+      "phrase": "a blessing in disguise",
+      "meaning": "something that seems bad but turns out good",
+      "example": "Losing that deal was a blessing in disguise."
+    }
+  },
+  {
     "date": "2026-11-14",
     "source": "BBC News",
     "category": "Entertainment",
