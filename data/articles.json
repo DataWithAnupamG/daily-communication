@@ -1,5 +1,86 @@
 [
   {
+    "date": "2026-11-16",
+    "source": "BBC News",
+    "category": "Technology",
+    "title": "Courts, spies and MPs: How the Microsoft outage has been felt around the world",
+    "summary": "From city governments in the US to spy agencies in Australia, the Microsoft outage is being felt around the world.",
+    "url": "https://www.bbc.co.uk/news/articles/cqp9d58eldlro?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 13 Nov 2026 17:34:58 GMT",
+    "opinionPrompt": "After reading the article, state your opinion clearly. Give one reason and one example to support your point.",
+    "questions": [
+      "Can you explain this article in your own words?",
+      "What do you think about this topic?",
+      "How might this change the way people use technology?",
+      "What is the strongest argument for and against what happened?",
+      "If you were advising the people involved, what would you tell them?",
+      "How might this story look different in ten years?"
+    ],
+    "angle": "Tech stories are about trade-offs: speed against safety, convenience against privacy. Ask who gains, who is left out, and what could go wrong.",
+    "level": "Medium",
+    "keywords": [
+      "Courts",
+      "spies",
+      "Microsoft",
+      "outage"
+    ],
+    "vocabulary": [
+      {
+        "word": "comprehensive",
+        "pos": "adj",
+        "meaning": "complete and covering everything important",
+        "example": "They published a comprehensive safety report."
+      },
+      {
+        "word": "consensus",
+        "pos": "noun",
+        "meaning": "general agreement among a group",
+        "example": "There is no consensus on the best solution."
+      },
+      {
+        "word": "ambiguous",
+        "pos": "adj",
+        "meaning": "open to more than one meaning",
+        "example": "The statement was deliberately ambiguous."
+      },
+      {
+        "word": "scepticism",
+        "pos": "noun",
+        "meaning": "a doubting attitude toward claims",
+        "example": "Experts met the claim with scepticism."
+      },
+      {
+        "word": "viable",
+        "pos": "adj",
+        "meaning": "able to work successfully",
+        "example": "Solar power is now a viable option for homes."
+      },
+      {
+        "word": "inevitable",
+        "pos": "adj",
+        "meaning": "certain to happen; unavoidable",
+        "example": "Some delays were inevitable."
+      },
+      {
+        "word": "repercussion",
+        "pos": "noun",
+        "meaning": "an indirect, often unwelcome result",
+        "example": "The move had wide repercussions."
+      },
+      {
+        "word": "transparent",
+        "pos": "adj",
+        "meaning": "open and easy to understand or check",
+        "example": "The company promised to be transparent about costs."
+      }
+    ],
+    "idiom": {
+      "phrase": "on the same page",
+      "meaning": "sharing the same understanding",
+      "example": "Let's make sure the team is on the same page."
+    }
+  },
+  {
     "date": "2026-11-15",
     "source": "BBC News",
     "category": "Top Stories",
