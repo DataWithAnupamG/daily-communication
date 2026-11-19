@@ -1,5 +1,86 @@
 [
   {
+    "date": "2026-11-19",
+    "source": "BBC News",
+    "category": "Science",
+    "title": "What's gone wrong at Britain's worst bathing site?",
+    "summary": "The BBC looks at why in a dry summer with few sewage spills, one bathing site failed so many water quality tests.",
+    "url": "https://www.bbc.co.uk/news/articles/cm752w35lkz3o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 18 Nov 2026 06:12:44 GMT",
+    "opinionPrompt": "After reading the article, state your opinion clearly. Give one reason and one example to support your point.",
+    "questions": [
+      "Can you explain this article in your own words?",
+      "What do you think about this topic?",
+      "Why do you think this scientific development matters?",
+      "What is the strongest argument for and against what happened?",
+      "If you were advising the people involved, what would you tell them?",
+      "How might this story look different in ten years?"
+    ],
+    "angle": "Science stories show how discovery meets real-world limits. Explain what was tried, what happened, and what it teaches us next.",
+    "level": "Medium",
+    "keywords": [
+      "What's",
+      "gone",
+      "wrong",
+      "Britain's"
+    ],
+    "vocabulary": [
+      {
+        "word": "ambiguous",
+        "pos": "adj",
+        "meaning": "open to more than one meaning",
+        "example": "The statement was deliberately ambiguous."
+      },
+      {
+        "word": "implication",
+        "pos": "noun",
+        "meaning": "a likely effect or consequence",
+        "example": "The law has serious implications for startups."
+      },
+      {
+        "word": "inevitable",
+        "pos": "adj",
+        "meaning": "certain to happen; unavoidable",
+        "example": "Some delays were inevitable."
+      },
+      {
+        "word": "mitigate",
+        "pos": "verb",
+        "meaning": "to make something less harmful or severe",
+        "example": "Cities plant trees to mitigate rising heat."
+      },
+      {
+        "word": "fluctuate",
+        "pos": "verb",
+        "meaning": "to rise and fall irregularly",
+        "example": "Fuel prices fluctuate throughout the year."
+      },
+      {
+        "word": "comprehensive",
+        "pos": "adj",
+        "meaning": "complete and covering everything important",
+        "example": "They published a comprehensive safety report."
+      },
+      {
+        "word": "viable",
+        "pos": "adj",
+        "meaning": "able to work successfully",
+        "example": "Solar power is now a viable option for homes."
+      },
+      {
+        "word": "vulnerable",
+        "pos": "adj",
+        "meaning": "easily harmed or affected",
+        "example": "Older people are most vulnerable to the heat."
+      }
+    ],
+    "idiom": {
+      "phrase": "on the same page",
+      "meaning": "sharing the same understanding",
+      "example": "Let's make sure the team is on the same page."
+    }
+  },
+  {
     "date": "2026-11-18",
     "source": "BBC News",
     "category": "Business",
