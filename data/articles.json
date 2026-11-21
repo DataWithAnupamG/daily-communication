@@ -1,5 +1,86 @@
 [
   {
+    "date": "2026-11-21",
+    "source": "BBC News",
+    "category": "India",
+    "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
+    "summary": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February.",
+    "url": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 20 Nov 2026 19:27:49 GMT",
+    "opinionPrompt": "After reading the article, state your opinion clearly. Give one reason and one example to support your point.",
+    "questions": [
+      "Can you explain this article in your own words?",
+      "What do you think about this topic?",
+      "How might this matter to people living in India?",
+      "What is the strongest argument for and against what happened?",
+      "If you were advising the people involved, what would you tell them?",
+      "How might this story look different in ten years?"
+    ],
+    "angle": "Stories about India often connect local life with national policy. Think about how the news touches families, cities, and work.",
+    "level": "Challenging",
+    "keywords": [
+      "Indian",
+      "sentenced",
+      "plus",
+      "years"
+    ],
+    "vocabulary": [
+      {
+        "word": "leverage",
+        "pos": "verb",
+        "meaning": "to use something to maximum advantage",
+        "example": "Teams leverage data to make faster decisions."
+      },
+      {
+        "word": "accountable",
+        "pos": "adj",
+        "meaning": "responsible and expected to explain actions",
+        "example": "Leaders must be accountable to the public."
+      },
+      {
+        "word": "unprecedented",
+        "pos": "adj",
+        "meaning": "never having happened before",
+        "example": "The storm caused unprecedented damage."
+      },
+      {
+        "word": "repercussion",
+        "pos": "noun",
+        "meaning": "an indirect, often unwelcome result",
+        "example": "The move had wide repercussions."
+      },
+      {
+        "word": "disrupt",
+        "pos": "verb",
+        "meaning": "to interrupt or change how something normally works",
+        "example": "New apps disrupted the taxi industry."
+      },
+      {
+        "word": "nuanced",
+        "pos": "adj",
+        "meaning": "showing subtle differences and detail",
+        "example": "It is a nuanced issue with no easy answer."
+      },
+      {
+        "word": "outweigh",
+        "pos": "verb",
+        "meaning": "to be greater in importance than",
+        "example": "The benefits outweigh the risks."
+      },
+      {
+        "word": "prospect",
+        "pos": "noun",
+        "meaning": "the possibility of something happening",
+        "example": "The prospect of a deal looks uncertain."
+      }
+    ],
+    "idiom": {
+      "phrase": "back to square one",
+      "meaning": "to have to start again from the beginning",
+      "example": "The test failed, so we are back to square one."
+    }
+  },
+  {
     "date": "2026-11-20",
     "source": "BBC News",
     "category": "Health",
