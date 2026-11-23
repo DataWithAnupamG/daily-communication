@@ -1,5 +1,86 @@
 [
   {
+    "date": "2026-11-23",
+    "source": "BBC News",
+    "category": "Top Stories",
+    "title": "Inside the heated debate over Scotland's data centres",
+    "summary": "The BBC's Lorna Gordon finds out how data centres operate and hears arguments for and against them.",
+    "url": "https://www.bbc.co.uk/news/articles/c6d912e1420eo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 23 Nov 2026 06:12:43 GMT",
+    "opinionPrompt": "After reading the article, state your opinion clearly. Give one reason and one example to support your point.",
+    "questions": [
+      "Can you explain this article in your own words?",
+      "What do you think about this topic?",
+      "How could this affect ordinary people's daily lives?",
+      "What is the strongest argument for and against what happened?",
+      "If you were advising the people involved, what would you tell them?",
+      "How might this story look different in ten years?"
+    ],
+    "angle": "Top stories are chosen because many people care. Explain the headline simply first, then say why it matters now.",
+    "level": "Medium",
+    "keywords": [
+      "Inside",
+      "heated",
+      "debate",
+      "Scotland's"
+    ],
+    "vocabulary": [
+      {
+        "word": "advocate",
+        "pos": "verb",
+        "meaning": "to publicly support an idea or cause",
+        "example": "She advocates for cleaner public transport."
+      },
+      {
+        "word": "implication",
+        "pos": "noun",
+        "meaning": "a likely effect or consequence",
+        "example": "The law has serious implications for startups."
+      },
+      {
+        "word": "controversial",
+        "pos": "adj",
+        "meaning": "causing public disagreement",
+        "example": "The decision proved highly controversial."
+      },
+      {
+        "word": "scepticism",
+        "pos": "noun",
+        "meaning": "a doubting attitude toward claims",
+        "example": "Experts met the claim with scepticism."
+      },
+      {
+        "word": "vulnerable",
+        "pos": "adj",
+        "meaning": "easily harmed or affected",
+        "example": "Older people are most vulnerable to the heat."
+      },
+      {
+        "word": "escalate",
+        "pos": "verb",
+        "meaning": "to become more intense or serious",
+        "example": "Tensions began to escalate overnight."
+      },
+      {
+        "word": "scrutiny",
+        "pos": "noun",
+        "meaning": "close and critical examination",
+        "example": "The plan faced intense scrutiny from experts."
+      },
+      {
+        "word": "comprehensive",
+        "pos": "adj",
+        "meaning": "complete and covering everything important",
+        "example": "They published a comprehensive safety report."
+      }
+    ],
+    "idiom": {
+      "phrase": "the tip of the iceberg",
+      "meaning": "a small visible part of a much bigger problem",
+      "example": "These delays are just the tip of the iceberg."
+    }
+  },
+  {
     "date": "2026-11-22",
     "source": "BBC News",
     "category": "Entertainment",
