@@ -1,5 +1,86 @@
 [
   {
+    "date": "2026-11-24",
+    "source": "BBC News",
+    "category": "Technology",
+    "title": "Can AI really help spot Black Friday deals? We put it to the test",
+    "summary": "We put four AI models to the test to see if they could save us money on a new TV.",
+    "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 21 Nov 2026 00:06:11 GMT",
+    "opinionPrompt": "After reading the article, state your opinion clearly. Give one reason and one example to support your point.",
+    "questions": [
+      "Can you explain this article in your own words?",
+      "What do you think about this topic?",
+      "How might this change the way people use technology?",
+      "What is the strongest argument for and against what happened?",
+      "If you were advising the people involved, what would you tell them?",
+      "How might this story look different in ten years?"
+    ],
+    "angle": "Tech stories are about trade-offs: speed against safety, convenience against privacy. Ask who gains, who is left out, and what could go wrong.",
+    "level": "Easy",
+    "keywords": [
+      "really",
+      "help",
+      "spot",
+      "Black"
+    ],
+    "vocabulary": [
+      {
+        "word": "exacerbate",
+        "pos": "verb",
+        "meaning": "to make a problem worse",
+        "example": "Delays only exacerbated the confusion."
+      },
+      {
+        "word": "outweigh",
+        "pos": "verb",
+        "meaning": "to be greater in importance than",
+        "example": "The benefits outweigh the risks."
+      },
+      {
+        "word": "disrupt",
+        "pos": "verb",
+        "meaning": "to interrupt or change how something normally works",
+        "example": "New apps disrupted the taxi industry."
+      },
+      {
+        "word": "inevitable",
+        "pos": "adj",
+        "meaning": "certain to happen; unavoidable",
+        "example": "Some delays were inevitable."
+      },
+      {
+        "word": "unprecedented",
+        "pos": "adj",
+        "meaning": "never having happened before",
+        "example": "The storm caused unprecedented damage."
+      },
+      {
+        "word": "repercussion",
+        "pos": "noun",
+        "meaning": "an indirect, often unwelcome result",
+        "example": "The move had wide repercussions."
+      },
+      {
+        "word": "momentum",
+        "pos": "noun",
+        "meaning": "strength or speed gained as something develops",
+        "example": "The campaign is gaining momentum."
+      },
+      {
+        "word": "leverage",
+        "pos": "verb",
+        "meaning": "to use something to maximum advantage",
+        "example": "Teams leverage data to make faster decisions."
+      }
+    ],
+    "idiom": {
+      "phrase": "a blessing in disguise",
+      "meaning": "something that seems bad but turns out good",
+      "example": "Losing that deal was a blessing in disguise."
+    }
+  },
+  {
     "date": "2026-11-23",
     "source": "BBC News",
     "category": "Top Stories",
