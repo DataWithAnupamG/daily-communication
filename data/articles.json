@@ -1,5 +1,86 @@
 [
   {
+    "date": "2026-11-26",
+    "source": "BBC News",
+    "category": "Business",
+    "title": "Robot vessels take on the dangerous work of mine hunting",
+    "summary": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
+    "url": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 11 Nov 2026 00:19:13 GMT",
+    "opinionPrompt": "After reading the article, state your opinion clearly. Give one reason and one example to support your point.",
+    "questions": [
+      "Can you explain this article in your own words?",
+      "What do you think about this topic?",
+      "How could this affect businesses or jobs?",
+      "What is the strongest argument for and against what happened?",
+      "If you were advising the people involved, what would you tell them?",
+      "How might this story look different in ten years?"
+    ],
+    "angle": "Business stories follow money and incentives. Ask who pays, who profits, and how ordinary customers or workers feel the effect.",
+    "level": "Medium",
+    "keywords": [
+      "Robot",
+      "vessels",
+      "take",
+      "dangerous"
+    ],
+    "vocabulary": [
+      {
+        "word": "escalate",
+        "pos": "verb",
+        "meaning": "to become more intense or serious",
+        "example": "Tensions began to escalate overnight."
+      },
+      {
+        "word": "transparent",
+        "pos": "adj",
+        "meaning": "open and easy to understand or check",
+        "example": "The company promised to be transparent about costs."
+      },
+      {
+        "word": "vulnerable",
+        "pos": "adj",
+        "meaning": "easily harmed or affected",
+        "example": "Older people are most vulnerable to the heat."
+      },
+      {
+        "word": "prospect",
+        "pos": "noun",
+        "meaning": "the possibility of something happening",
+        "example": "The prospect of a deal looks uncertain."
+      },
+      {
+        "word": "consensus",
+        "pos": "noun",
+        "meaning": "general agreement among a group",
+        "example": "There is no consensus on the best solution."
+      },
+      {
+        "word": "advocate",
+        "pos": "verb",
+        "meaning": "to publicly support an idea or cause",
+        "example": "She advocates for cleaner public transport."
+      },
+      {
+        "word": "incentive",
+        "pos": "noun",
+        "meaning": "something that motivates action",
+        "example": "Tax breaks are an incentive to go electric."
+      },
+      {
+        "word": "scepticism",
+        "pos": "noun",
+        "meaning": "a doubting attitude toward claims",
+        "example": "Experts met the claim with scepticism."
+      }
+    ],
+    "idiom": {
+      "phrase": "the tip of the iceberg",
+      "meaning": "a small visible part of a much bigger problem",
+      "example": "These delays are just the tip of the iceberg."
+    }
+  },
+  {
     "date": "2026-11-25",
     "source": "BBC News",
     "category": "World",
