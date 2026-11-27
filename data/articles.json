@@ -1,5 +1,86 @@
 [
   {
+    "date": "2026-11-27",
+    "source": "BBC News",
+    "category": "Science",
+    "title": "Expect fewer frosts and more hot days as UK seasons shift, says Met Office",
+    "summary": "Changing seasons are affecting wildlife and leading some farmers to grow different crops.",
+    "url": "https://www.bbc.co.uk/weather/articles/cr3eg1py3gv5o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 26 Nov 2026 00:08:07 GMT",
+    "opinionPrompt": "After reading the article, state your opinion clearly. Give one reason and one example to support your point.",
+    "questions": [
+      "Can you explain this article in your own words?",
+      "What do you think about this topic?",
+      "Why do you think this scientific development matters?",
+      "What is the strongest argument for and against what happened?",
+      "If you were advising the people involved, what would you tell them?",
+      "How might this story look different in ten years?"
+    ],
+    "angle": "Science stories show how discovery meets real-world limits. Explain what was tried, what happened, and what it teaches us next.",
+    "level": "Challenging",
+    "keywords": [
+      "Expect",
+      "fewer",
+      "frosts",
+      "more"
+    ],
+    "vocabulary": [
+      {
+        "word": "unprecedented",
+        "pos": "adj",
+        "meaning": "never having happened before",
+        "example": "The storm caused unprecedented damage."
+      },
+      {
+        "word": "scrutiny",
+        "pos": "noun",
+        "meaning": "close and critical examination",
+        "example": "The plan faced intense scrutiny from experts."
+      },
+      {
+        "word": "repercussion",
+        "pos": "noun",
+        "meaning": "an indirect, often unwelcome result",
+        "example": "The move had wide repercussions."
+      },
+      {
+        "word": "exacerbate",
+        "pos": "verb",
+        "meaning": "to make a problem worse",
+        "example": "Delays only exacerbated the confusion."
+      },
+      {
+        "word": "controversial",
+        "pos": "adj",
+        "meaning": "causing public disagreement",
+        "example": "The decision proved highly controversial."
+      },
+      {
+        "word": "mitigate",
+        "pos": "verb",
+        "meaning": "to make something less harmful or severe",
+        "example": "Cities plant trees to mitigate rising heat."
+      },
+      {
+        "word": "momentum",
+        "pos": "noun",
+        "meaning": "strength or speed gained as something develops",
+        "example": "The campaign is gaining momentum."
+      },
+      {
+        "word": "comprehensive",
+        "pos": "adj",
+        "meaning": "complete and covering everything important",
+        "example": "They published a comprehensive safety report."
+      }
+    ],
+    "idiom": {
+      "phrase": "move the goalposts",
+      "meaning": "to change the rules so success is harder",
+      "example": "They moved the goalposts after we agreed."
+    }
+  },
+  {
     "date": "2026-11-26",
     "source": "BBC News",
     "category": "Business",
